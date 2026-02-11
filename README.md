@@ -126,7 +126,7 @@ Cette version marque une transition vers un pipeline sérieux et reproductible.
 
 # 4. Version 3 – Pipeline Stabilisé et Plus Perceptuel
 
-Fichier : `SR_GAN_version3.ipynb`
+Fichier : `SR_GAN.ipynb`
 
 ## Objectif
 
