@@ -201,7 +201,11 @@ Cette version correspond à une implémentation solide d’un SRGAN académique 
 
 - stable,  
 - reproductible,  
-- correctement structuré.  
+- correctement structuré.
+
+## Résultat
+<img width="1570" height="500" alt="Unknown" src="https://github.com/user-attachments/assets/b64aa02c-a511-4112-a227-132a48f959cb" />
+
 
 ---
 
